@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "debug": "4.3.4",
-    "mongodb-memory-server": "7.6.3",
+    "mongodb-memory-server": "8.7.2",
     "uuid": "8.3.2"
   },
   "devDependencies": {
